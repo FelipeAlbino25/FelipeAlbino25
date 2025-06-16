@@ -34,24 +34,31 @@ Oi! Sou Felipe Congio Albino
 
 <p>
     <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
+	    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+	    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+     	    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+	   <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 
 
-## 🧰 Frameworks e Libraries
+
+## ⚙️ Back-end
 
 <p>
     <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
     <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
-    <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+        <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 
 </p>
 
-## 💻 Software e Ferramentas
+## 💻 Front-end
 
 <p>
-    <a href="https://github.com/FelipeAlbino25"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/FelipeAlbino25"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    
+<a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+
+ 
 </p>
 
 ## 💾 Banco de Dados
@@ -64,7 +71,12 @@ Oi! Sou Felipe Congio Albino
   
 </p>
 
-
+## 🧰 Ferramentas:
+<p>
+<a href="https://github.com/FelipeAlbino25"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/FelipeAlbino25"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+ <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
 </br>
 
 ## Projetos em Destaque
@@ -84,24 +96,17 @@ Oi! Sou Felipe Congio Albino
 <br/>
 <summary><b>Felipe Albino's Stats</b></summary>
 <br/>
-<p align="center">
-	<a href="https://github.com/FelipeAlbino25">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=felipealbino25&show_icons=true" alt="felipealbino25">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipealbino25" alt="felipealbino25">
-	</a>
-	<br/>
+
+![FelipeAlbino25's Stats](https://github-readme-stats.vercel.app/api?username=FelipeAlbino25&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+	![FelipeAlbino25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FelipeAlbino25&theme=dracula&hide_border=true)
+ <br/>
 </p>
 <br/>
 
 <summary><b>Linguagens</b></summary>
 <br/>
 
-<p align="center">
-	<a href="https://github.com/FelipeAlbino25">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealbino25&langs_count=8&layout=compact" alt="felipealbino25">
-	</a>
-	<br/>
+![FelipeAlbino25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlbino25&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <br/>
-</p>
 <br/>
 
