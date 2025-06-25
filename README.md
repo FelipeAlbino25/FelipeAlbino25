@@ -4,7 +4,7 @@ Oi! Sou Felipe Congio Albino
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
+<p align="center>
 	<a href="https://github.com/FelipeAlbino25">
 		<img src="https://komarev.com/ghpvc/?username=felipealbino25&label=Profile%20views&color=0e75b6&style=flat" alt="felipealbino25" />
 	</a>
@@ -24,7 +24,7 @@ Oi! Sou Felipe Congio Albino
 <hr>
 
 ## 🤝 Meus Contatos
-<p align="center">
+<p>
 	<a href="mailto:felipecongioalbino11@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/felipecongioalbino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
