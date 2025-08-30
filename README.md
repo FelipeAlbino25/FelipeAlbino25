@@ -19,7 +19,7 @@ Oi! Sou Felipe Congio Albino
 <pre>
 💻 Sou técnico em informática formado pelo IFSP em 2024
 📚 Estou estudando Ciência da Computação na UFSCar - São Carlos
-📝 Tenho um interesse especial em desenvolvimento WEB, com foco em Back-end
+📝 Tenho um interesse especial em Desenvolvimento de Software
 </pre>
 <hr>
 
