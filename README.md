@@ -48,7 +48,7 @@ Oi! Sou Felipe Congio Albino
     <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
     <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
         <a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
-
+<a href="https://github.com/FelipeAlbino25"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> </a>
 </p>
 
 ## 💻 Front-end
