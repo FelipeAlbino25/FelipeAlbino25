@@ -20,7 +20,7 @@ Oi! Sou Felipe Congio Albino
 💻 Sou técnico em informática formado pelo IFSP em 2024
 📚 Estudante de Ciência da Computação na UFSCar - São Carlos
 📝 Interesse especial em desenvolvimento e projeção de aplicações práticas
-💼 Atualmente trabalhando na CATIjr. Como Desenvolvedor Fullstack
+💼 Atualmente trabalhando na CATIjr como Squad Leader
 </pre>
 <hr>
 
