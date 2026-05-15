@@ -94,7 +94,7 @@ Oi! Sou Felipe Congio Albino
 
 ## GitHub Stats
 
-![FelipeAlbino25's Stats](https://github-readme-stats.vercel.app/api?username=FelipeAlbino25&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github&border_radius=1)
-<br>
-![FelipeAlbino25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlbino25&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+  <img height=180rem src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAlbino25&theme=tokyonight" alt="GitHub Streak" />
+	<img height=180rem src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeAlbino25&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
