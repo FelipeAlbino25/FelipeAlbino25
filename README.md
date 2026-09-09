@@ -19,8 +19,8 @@ Oi! Sou Felipe Congio Albino
 <pre>
 💻 Sou técnico em informática formado pelo Instituto Federal de São Paulo em 2024
 📚 Estudante de Ciência da Computação na UFSCar - São Carlos
-📝 Interesse especial em desenvolvimento e projeção de aplicações práticas
 💼 Atualmente trabalhando na CATIjr como Coordenador de Projetos
+📝 Membro do PET-BCC onde ministro aulas de reforço para matérias da graduação
 </pre>
 <hr>
 
